@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Rhymes Like Dimes!
 Use the left arrow to go back!
